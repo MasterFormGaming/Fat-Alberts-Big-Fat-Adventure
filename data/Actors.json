@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Fat Albert","characterIndex":0,"characterName":"Fat Albert","classId":1,"equips":[2,0,0,1,0],"faceIndex":0,"faceName":"Fat Albert","traits":[],"initialLevel":1,"maxLevel":12,"name":"Fat Albert","nickname":"Fat Al","note":"","profile":"Hey, hey, hey, that's me! "}
+{"id":1,"battlerName":"Fat Albert","characterIndex":0,"characterName":"Fat Albert","classId":1,"equips":[1,0,0,1,0],"faceIndex":0,"faceName":"Fat Albert","traits":[],"initialLevel":1,"maxLevel":12,"name":"Fat Albert","nickname":"Fat Al","note":"","profile":"Hey, hey, hey, that's me! "}
 ]

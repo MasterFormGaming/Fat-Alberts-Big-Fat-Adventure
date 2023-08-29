@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"Fat Albert's belt. He doesn't even need it for his\nwaistline, he just wears it 'cuz why the hell not?","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Belt of Gluttony","note":"","params":[0,0,0,1,0,0,0,0],"price":100}
+{"id":1,"atypeId":1,"description":"This belt makes the user hungry, while also\nmaking the user feel a little more beefy.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":144,"name":"Belt of Gluttony","note":"","params":[5,0,0,3,0,0,0,0],"price":100}
 ]

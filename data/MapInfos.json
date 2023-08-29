@@ -1,12 +1,15 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Inn","order":3,"parentId":3,"scrollX":973.1999999999999,"scrollY":548.4},
-{"id":2,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":982.8,"scrollY":891.5999999999999},
-{"id":3,"expanded":true,"name":"Town 1","order":2,"parentId":2,"scrollX":973.1999999999999,"scrollY":548.4},
+{"id":2,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":816,"scrollY":754},
+{"id":3,"expanded":true,"name":"Town 1","order":2,"parentId":2,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
 {"id":4,"expanded":false,"name":"Upstairs Inn","order":4,"parentId":1,"scrollX":811,"scrollY":457},
 {"id":5,"expanded":false,"name":"Fat Albert's House","order":5,"parentId":3,"scrollX":811,"scrollY":457},
 {"id":6,"expanded":false,"name":"Weapon Shop","order":6,"parentId":3,"scrollX":811,"scrollY":457},
 {"id":7,"expanded":true,"name":"Item Shop","order":7,"parentId":3,"scrollX":811,"scrollY":457},
 {"id":8,"expanded":false,"name":"Pub","order":8,"parentId":7,"scrollX":811,"scrollY":457},
-{"id":9,"expanded":false,"name":"Forest Dungeon map 1","order":9,"parentId":2,"scrollX":973.1999999999999,"scrollY":548.4}
+{"id":9,"expanded":false,"name":"Forest Dungeon map 1","order":9,"parentId":2,"scrollX":816,"scrollY":640},
+{"id":10,"expanded":true,"name":"Cave Map 1","order":10,"parentId":2,"scrollX":816,"scrollY":800},
+{"id":11,"expanded":true,"name":"Cave Map 2","order":11,"parentId":10,"scrollX":816,"scrollY":800},
+{"id":12,"expanded":false,"name":"Cave Exit","order":12,"parentId":11,"scrollX":816,"scrollY":640}
 ]
